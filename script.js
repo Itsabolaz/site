@@ -11,3 +11,5 @@ const isRegister = (user) => {
 
     return false
 }
+
+const test = () => true;
